@@ -1,15 +1,14 @@
 ---
 templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'What do you think'
+date: 2018-06-27T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  This is something for the World Cup
 tags:
-  - jamaica
-  - green beans
-  - flavor
-  - tasting
+  - World Cup
+  - Football
+  - Russia
+  - Winners
 ---
 
 ## What do you think?
