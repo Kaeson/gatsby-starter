@@ -45,10 +45,10 @@ ContactPage.propTypes = {
   data: PropTypes.object.isRequired,
 }
 
-export default AboutPage
+export default ContactPage
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const contactPageQuery = graphql`
+  query ContactPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
